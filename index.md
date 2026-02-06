@@ -25,15 +25,16 @@ Feel free to explore my webpage to learn more about our work and my contribution
 
 ## News
 
-- **[Talk]** [2026-01-29] Our recent work EMPalm is accepted by Sensys 26!
+- **[Review]** [2026-01-29] I will serve as a reviewer for ICML 26.
+- **[Paper]** [2026-01-29] Our recent work EMPalm is accepted by Sensys 26!
 - **[Talk]** [2025-01-09] I am honored to be invited to give a talk about our work ["Cleaning Huge Anomaly-Polluted Log Data Sets Using Sample Selection"](https://nedbday.github.io/2025/download/slides/Pluto_NEDB_slides.pdf) at [NEDB 25](https://nedbday.github.io/2025/#program)!
 - **[Internship]** [2024-10-25] I am glad to finish my internship at the Infra Lab ByteBrain of Bytedance! We have been working on a new infra project seemelessly integrated with LLMs!
 
 <h2 id="Education">📚 Education</h2>
 
-- *Expected 2029*, Ph.D. in Computer Science, Worcester Polytechnic Institute, Worcester, Massachusetts, USA.
+- *Expected Spring, 2026*, Ph.D. in Computer Science, Worcester Polytechnic Institute, Worcester, Massachusetts, USA.
 
-- *2020 - 2024*, B.Eng in Communication Engineering, Nanjing University, Nanjing, Jiangsu, China.
+- *2015 - 2019*, Master in Software Engineering, Southeast University, Nanjing, Jiangsu, China.
 
 
 ## Publications {#publications}
@@ -65,6 +66,3 @@ Feel free to explore my webpage to learn more about our work and my contribution
 
 
 
-<h2 id="cv">CV</h2>
-
-[Download CV](files/cv.pdf)
