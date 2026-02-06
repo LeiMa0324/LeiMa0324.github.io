@@ -24,7 +24,7 @@ My research interests encompass a range of data mining topics, with a particular
 Feel free to explore my webpage to learn more about our work and my contributions to the field.
 
 ## News
-
+- **[Funding grant]** I served as a primary contributor and lead writer on a co-authored NSF proposal on an AI-driven log analytics framework, which has been submitted. 
 - **[Review]** [2026-01-29] I will serve as a reviewer for ICML 26.
 - **[Paper]** [2026-01-29] Our recent work EMPalm is accepted by Sensys 26!
 - **[Talk]** [2025-01-09] I am honored to be invited to give a talk about our work ["Cleaning Huge Anomaly-Polluted Log Data Sets Using Sample Selection"](https://nedbday.github.io/2025/download/slides/Pluto_NEDB_slides.pdf) at [NEDB 25](https://nedbday.github.io/2025/#program)!
