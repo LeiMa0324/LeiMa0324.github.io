@@ -40,6 +40,8 @@ Feel free to explore my webpage to learn more about our work and my contribution
 
 ## Publications {#publications}
 
+- **[ICML 2026 In Submission]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.  
+  *When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.*
 - **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Peter M. VanNostrand, Dennis M. Hofmann, Tieying Zhang, Jianjun Chen, Rui Shi, Lei Cao, Elke A. Rundensteiner. Krone: Hierarchical and Modular Log Anomaly Detection.
 - **[Sensys 26]** Haowen Xu, Tianya Zhao, Xuyu Wang, **Lei Ma**, Jun Dai, Alexander Wyglinski, Xiaoyan Sun. EMPalm: Exfiltrating Palm Biometric Data via Electromagnetic Side-Channel.
 - **[NEDB 2025]** **Lei Ma**, Lei Cao, Peter M. VanNostrand, Dennis M. Hofmann, Yao Su, Elke A. Rundensteiner. Cleaning Huge Anomaly-Polluted Log Data Sets Using Sample Selection. [Slides](https://nedbday.github.io/2025/download/slides/Pluto_NEDB_slides.pdf) [Poster](https://nedbday.github.io/2025/download/posters/pluto_24x36_poster.pdf)
