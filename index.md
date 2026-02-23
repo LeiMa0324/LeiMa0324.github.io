@@ -24,6 +24,7 @@ My research interests encompass a range of data mining topics, with a particular
 Feel free to explore my webpage to learn more about our work and my contributions to the field.
 
 ## News
+- **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
 - **[Funding proposal]** I served as a primary contributor and lead writer on a co-authored NSF proposal on an AI-driven log analytics framework, which has been submitted. 
 - **[Review]** [2026-01-29] I will serve as a reviewer for ICML 26.
 - **[Paper]** [2026-01-29] Our recent work EMPalm is accepted by Sensys 26!
@@ -31,7 +32,7 @@ Feel free to explore my webpage to learn more about our work and my contribution
 - **[Internship]** [2024-10-25] I am glad to finish my internship at the Infra Lab ByteBrain of Bytedance! We have been working on a new infra project seemelessly integrated with LLMs!
 
 <h2 id="Education">📚 Education</h2>
-
+ 
 - *Expected Spring, 2026*, Ph.D. in Computer Science, Worcester Polytechnic Institute, Worcester, Massachusetts, USA.
 
 - *2015 - 2019*, Master in Software Engineering, Southeast University, Nanjing, Jiangsu, China.
@@ -39,7 +40,7 @@ Feel free to explore my webpage to learn more about our work and my contribution
 
 ## Publications {#publications}
 
-- **[ICDE 2026 Under revision]** **Lei Ma**, Jinyang Liu, Peter M. VanNostrand, Dennis M. Hofmann, Tieying Zhang, Jianjun Chen, Rui Shi, Lei Cao, Elke A. Rundensteiner. Krone: Hierarchical and Modular Log Anomaly Detection.
+- **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Peter M. VanNostrand, Dennis M. Hofmann, Tieying Zhang, Jianjun Chen, Rui Shi, Lei Cao, Elke A. Rundensteiner. Krone: Hierarchical and Modular Log Anomaly Detection.
 - **[Sensys 26]** Haowen Xu, Tianya Zhao, Xuyu Wang, **Lei Ma**, Jun Dai, Alexander Wyglinski, Xiaoyan Sun. EMPalm: Exfiltrating Palm Biometric Data via Electromagnetic Side-Channel.
 - **[NEDB 2025]** **Lei Ma**, Lei Cao, Peter M. VanNostrand, Dennis M. Hofmann, Yao Su, Elke A. Rundensteiner. Cleaning Huge Anomaly-Polluted Log Data Sets Using Sample Selection. [Slides](https://nedbday.github.io/2025/download/slides/Pluto_NEDB_slides.pdf) [Poster](https://nedbday.github.io/2025/download/posters/pluto_24x36_poster.pdf)
 - **[SIGMOD 2025]** Dennis M. Hofmann, Peter M. VanNostrand, **Lei Ma**, Huayi Zhang, Joshua C. DeOliveira, Lei Cao, Elke A. Rundensteiner.. Agree to Disagree: Robust Anomaly Detection with Noisy Labels.
