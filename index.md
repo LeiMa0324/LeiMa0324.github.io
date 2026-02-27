@@ -66,6 +66,7 @@ Feel free to explore my webpage to learn more about our work and my contribution
 **Undergraduate Student Project Mentor**
 
 - REU Project, Summer 2025
+- MQP Project (WPI), Fall 2025 - Spring 2026
 
 
 
