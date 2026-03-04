@@ -9,19 +9,19 @@ show_title: false
 
 ## About Me
 
-Hello! My name is Lei Ma. I am currently a Computer Science PhD student and a Research Assistant at WPI. My main research interests focus on analytics of sequential data, including Deep Anomaly Detection on Sequential data (Logs and Multi-variate time series) and Online Query Execution and Optimization for streaming data.
+Hello! My name is Lei Ma. I am a PhD candidate in Computer Science at Worcester Polytechnic Institute (WPI) and a research assistant in the DAISY Lab. My research lies at the intersection of **Data Systems and Artificial Intelligence**, with a focus on building intelligent systems that analyze and reason over complex sequential system data.
 
-I am fortunate to be advised by **[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)**, a leading expert and the founder of Data Science Department. Prof. Rundensteiner's guidance and expertise have been invaluable in shaping my research trajectory and academic growth.
+A central theme of my work is **structure-aware analytics for system telemetry**, including logs, time-series data, and execution traces. I develop methods that extract hierarchical structures from raw system signals and leverage them to improve system monitoring, anomaly detection, and automated reasoning.
 
-Our research team, the **[Daisy (DAta-Driven Intelligent SYsmtems) Lab](https://daisy.wpi.edu/?_gl=1*1f2aae4*_gcl_au*NDEyMDIyOTk3LjE3MTI4Nzk1Mzk.*_ga*MjIwMTU0Mjk3LjE3MTI4Nzk1Mzk.*_ga_RE35PKQB7J*MTcxODAzODg2NC41LjEuMTcxODAzODkyMC40LjAuMA..)**, consists of a diverse group of talented researchers and students dedicated to advancing various research topics in the data science field, including artificial intelligence, AI explanation and fairness, anomaly detection, etc. We collaborate on various projects, ranging from theoretical foundations to practical applications of data science technologies.
+I am fortunate to be advised by **[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)**, a leading researcher in data management and the founding head of the Data Science Department at WPI.
 
-My research interests encompass a range of data mining topics, with a particular focus on sequential data, including time series and log data.
+I am a member of the **[DAISY (DAta-Driven Intelligent SYstems) Lab](https://daisy.wpi.edu/)**, where we study scalable data analytics and AI-driven system intelligence.
 
-- LLM-and-Retrieval-Based Anomaly Detection
-- Deep Log and Time-series Anomaly Detection
-- Event Stream Processing
+My research interests include:
 
-Feel free to explore my webpage to learn more about our work and my contributions to the field.
+- **AI for Systems and System Observability**
+- **Structure-Aware Sequential Data Analytics**
+- **Large Language Models for System Reasoning**
 
 ## News
 - **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
