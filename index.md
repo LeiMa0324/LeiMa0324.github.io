@@ -9,9 +9,11 @@ show_title: false
 
 ## About Me
 
-Hello! My name is Lei Ma. I am a PhD candidate in Computer Science at Worcester Polytechnic Institute (WPI) and a research assistant in the DAISY Lab. My research lies at the intersection of **Data Systems and Artificial Intelligence**, with a focus on building intelligent systems that analyze and reason over complex sequential system data.
+My research lies at the intersection of Data Systems and Artificial Intelligence, focusing on how intelligent systems can understand, monitor, and learn from complex system telemetry, such as logs, execution traces, and other sequential operational data.
 
-A central theme of my work is **structure-aware analytics for system telemetry**, including logs, time-series data, and execution traces. I develop methods that extract hierarchical structures from raw system signals and leverage them to improve system monitoring, anomaly detection, and automated reasoning.
+I develop structure-aware representations of system behavior, uncovering hierarchical execution structures hidden in raw system signals. These representations enable more effective system observability, anomaly detection, and automated diagnosis.
+
+Building on this foundation, my recent work investigates how system telemetry and oputput traces can support reliable reasoning and lifelong learning in multi-agent systems, allowing AI agents to continuously improve their performance and reliability through accumulated operational experience.
 
 I am fortunate to be advised by **[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)**, a leading researcher in data management and the founding head of the Data Science Department at WPI.
 
@@ -25,8 +27,8 @@ My research interests include:
 
 ## News
 - **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
-- **[Funding proposal]** I served as a primary contributor and lead writer on a co-authored NSF proposal on an AI-driven log analytics framework, which has been submitted. 
-- **[Review]** [2026-01-29] I will serve as a reviewer for ICML 26.
+- **[Funding proposal]** I served as a primary contributor and lead writer on a co-authored NSF proposal on an AI-driven system reliability analysis framework, which has been submitted. 
+- **[Review]** [2026-01-29] I am serving as a reviewer for ICML 26.
 - **[Paper]** [2026-01-29] Our recent work EMPalm is accepted by Sensys 26!
 - **[Talk]** [2025-01-09] I am honored to be invited to give a talk about our work ["Cleaning Huge Anomaly-Polluted Log Data Sets Using Sample Selection"](https://nedbday.github.io/2025/download/slides/Pluto_NEDB_slides.pdf) at [NEDB 25](https://nedbday.github.io/2025/#program)!
 - **[Internship]** [2024-10-25] I am glad to finish my internship at the Infra Lab ByteBrain of Bytedance! We have been working on a new infra project seemelessly integrated with LLMs!
