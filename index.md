@@ -9,11 +9,7 @@ show_title: false
 
 ## About Me
 
-My research lies at the intersection of Data Systems and Artificial Intelligence, focusing on how intelligent systems can understand, monitor, and learn from complex system telemetry, such as logs, execution traces, and other sequential operational data.
-
-I develop structure-aware representations of system behavior, uncovering hierarchical execution structures hidden in raw system signals. These representations enable more effective system observability, anomaly detection, and automated diagnosis.
-
-Building on this foundation, my recent work investigates how system telemetry and oputput traces can support reliable reasoning and lifelong learning in multi-agent systems, allowing AI agents to continuously improve their performance and reliability through accumulated operational experience.
+My research lies at the intersection of Data Systems and Artificial Intelligence. <span style="color:#d6336c;"><strong>I build intelligent data systems that transform raw system telemetry and output traces into structured knowledge for reliable AI reasoning and lifelong system learning.</strong></span>
 
 I am fortunate to be advised by **[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)**, a leading researcher in data management and the founding head of the Data Science Department at WPI.
 
@@ -21,9 +17,10 @@ I am a member of the **[DAISY (DAta-Driven Intelligent SYstems) Lab](https://dai
 
 My research interests include:
 
-- **AI for Systems and System Observability**
-- **Structure-Aware Sequential Data Analytics**
-- **Large Language Models for System Reasoning**
+- **Intelligent Data Systems for System Telemetry**
+- **Reliable and Explainable AI Systems**
+- **Multi-Agent Systems and Lifelong Learning**
+
 
 ## News
 - **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
