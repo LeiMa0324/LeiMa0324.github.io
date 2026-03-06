@@ -9,7 +9,7 @@ show_title: false
 
 ## About Me
 
-My research lies at the intersection of Data Systems and Artificial Intelligence. <span style="color:#d6336c;"><strong>I build intelligent data systems that transform raw system telemetry and output traces into structured knowledge for reliable AI reasoning and lifelong system learning.</strong></span>
+My research lies at the intersection of Data Systems and Artificial Intelligence. I build <span style="color:#d6336c;"><strong>intelligent data systems that transform raw system telemetry and output traces into structured knowledge for reliable AI reasoning and lifelong system learning.</strong></span>
 
 I am fortunate to be advised by **[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)**, a leading researcher in data management and the founding head of the Data Science Department at WPI.
 
