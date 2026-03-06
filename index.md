@@ -42,7 +42,7 @@ My research interests include:
 
 - **[ICML 2026 In Submission]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.  
   *When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.* 
-- **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Peter M. VanNostrand, Dennis M. Hofmann, Tieying Zhang, Jianjun Chen, Rui Shi, Lei Cao, Elke A. Rundensteiner. Krone: Hierarchical and Modular Log Anomaly Detection. [Paper](https://arxiv.org/pdf/2602.07303) [Code](https://github.com/LeiMa0324/Krone_official) [Demo](https://leima0324.github.io/KRONE_Demo_official/)
+- **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Tieying Zhang, Peter M. VanNostrand, Dennis M. Hofmann, Lei Cao, Elke A. Rundensteiner, Jianjun Chen,. Krone: Hierarchical and Modular Log Anomaly Detection. [Paper](https://arxiv.org/pdf/2602.07303) [Code](https://github.com/LeiMa0324/Krone_official) [Demo](https://leima0324.github.io/KRONE_Demo_official/)
 - **[Sensys 26]** Haowen Xu, Tianya Zhao, Xuyu Wang, **Lei Ma**, Jun Dai, Alexander Wyglinski, Xiaoyan Sun. EMPalm: Exfiltrating Palm Biometric Data via Electromagnetic Side-Channel.
 - **[NEDB 2025]** **Lei Ma**, Lei Cao, Peter M. VanNostrand, Dennis M. Hofmann, Yao Su, Elke A. Rundensteiner. Cleaning Huge Anomaly-Polluted Log Data Sets Using Sample Selection. [Slides](https://nedbday.github.io/2025/download/slides/Pluto_NEDB_slides.pdf) [Poster](https://nedbday.github.io/2025/download/posters/pluto_24x36_poster.pdf)
 - **[SIGMOD 2025]** Dennis M. Hofmann, Peter M. VanNostrand, **Lei Ma**, Huayi Zhang, Joshua C. DeOliveira, Lei Cao, Elke A. Rundensteiner.. Agree to Disagree: Robust Anomaly Detection with Noisy Labels. [Paper](https://dl.acm.org/doi/abs/10.1145/3709657)
