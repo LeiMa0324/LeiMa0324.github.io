@@ -24,7 +24,7 @@ My research interests include:
 
 
 ## News
-- **[Review]** [2026-01-29] I am serving as a reviewer for NeurIPS 26.
+- **[Review]** [2026-03-24] I will serve as a reviewer for NeurIPS 26.
 - **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
 - **[Funding proposal]** I served as a primary contributor and lead writer on a co-authored NSF proposal on an AI-driven system reliability analysis framework, which has been submitted. 
 - **[Review]** [2026-01-29] I am serving as a reviewer for ICML 26.
