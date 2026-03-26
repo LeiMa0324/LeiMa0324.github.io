@@ -51,6 +51,7 @@ My research interests include:
 
 ## Service {#service}
 - ICML 2026, Reviewer
+- Infosys, Reviewer
 
 ## Teaching {#teaching}
 
@@ -66,11 +67,7 @@ My research interests include:
 - REU Project, Summer 2025
 - MQP Project (WPI), Fall 2025 - Spring 2026
 
-- <h2 id="Education">📚 Education</h2>
- 
-- *Expected Spring, 2026*, Ph.D. in Computer Science, Worcester Polytechnic Institute, Worcester, Massachusetts, USA.
 
-- *2015 - 2019*, Master in Software Engineering, Southeast University, Nanjing, Jiangsu, China.
 
 
 
