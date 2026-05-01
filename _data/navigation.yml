@@ -16,7 +16,7 @@ main:
 
   - title: "Projects"
     children:
-      - title: "KRONE"
+      - title: "KRONE (ICDE 2026)"
         url: /krone/
 
   # - title: "Talks"
