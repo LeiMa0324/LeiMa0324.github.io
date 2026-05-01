@@ -5,10 +5,6 @@ author_profile: true
 show_title: false
 ---
 
-<nav class="section-tabs" style="margin-bottom: 1rem;">
-  <a href="https://leima0324.github.io/krone/" style="margin-right: 1rem; text-decoration: none; font-weight: 600; color: #1f3c88;">Projects</a>
-</nav>
-
 <div id="bio"></div>
 
 ## About Me
