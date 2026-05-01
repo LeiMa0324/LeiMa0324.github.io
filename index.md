@@ -24,7 +24,8 @@ My research interests include:
 
 
 ## News
-- **[Review]** [2026-03-24] I will serve as a reviewer for NeurIPS 26.
+- **[Paper]** [2026-04-30] Our latest paper about detecting malicious behaviors in multi-agent systems is accepted by ICML 2026!
+- **[Review]** [2026-03-24] I am invited to serve as a reviewer for NeurIPS 26.
 - **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
 - **[Funding proposal]** I served as a primary contributor and lead writer on a co-authored NSF proposal on an AI-driven system reliability analysis framework, which has been submitted. 
 - **[Review]** [2026-01-29] I am serving as a reviewer for ICML 26.
@@ -37,7 +38,7 @@ My research interests include:
 
 ## Publications {#publications}
 - **[VLDB Demo 2026 In Submission]** **Lei Ma**, Suhani Chaudhary, Ethan Shanbaum, Athanasios Tassiadamis, Peter M. VanNostrand, Dennis M. Hofmann, Haowen Xu, Elke Rundensteiner.  *Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation.* 
-- **[ICML 2026 In Submission]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.*When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.*
+- **[ICML 2026 Accepted]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.*When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.*
 - **[FaccT 2026]** Peter M. VanNostrand, Dennis M. Hofmann, **Lei Ma**, Elke A. Rundensteiner. *Options Without Agency: Diversity as a Requirement for Fair Actionable Recourse*. [Paper](https://openreview.net/forum?id=zm9BXlH9Re#discussion)
 - **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Tieying Zhang, Peter M. VanNostrand, Dennis M. Hofmann, Lei Cao, Elke A. Rundensteiner, Jianjun Chen. *Krone: Hierarchical and Modular Log Anomaly Detection*. [Paper](https://arxiv.org/pdf/2602.07303) [Code](https://github.com/LeiMa0324/Krone_official) [Demo](https://leima0324.github.io/KRONE_Demo_official/)
 - **[Sensys 26]** Haowen Xu, Tianya Zhao, Xuyu Wang, **Lei Ma**, Jun Dai, Alexander Wyglinski, Xiaoyan Sun. *EMPalm: Exfiltrating Palm Biometric Data via Electromagnetic Side-Channel*.
