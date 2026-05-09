@@ -9,7 +9,7 @@ show_title: false
 
 ## About Me
 
-My research lies at the intersection of Data Systems and Artificial Intelligence. I build <span style="color:#d6336c;"><strong>intelligent data systems that transform raw system telemetry and AI-generated traces into structured knowledge for reliable AI reasoning and lifelong system learning.</strong></span>
+I am a last year PhD student @WPI. My research lies at the intersection of Data Systems and Artificial Intelligence. I build <span style="color:#d6336c;"><strong>intelligent data systems that transform raw system telemetry and AI-generated traces into structured knowledge for reliable AI reasoning and lifelong system learning.</strong></span>
 
 I am fortunate to be advised by **[Prof. Elke Rundensteiner](https://www.wpi.edu/people/faculty/rundenst)**, a leading researcher in data management and the founding head of the Data Science Department at WPI.
 
@@ -38,7 +38,7 @@ My research interests include:
 
 ## Publications {#publications}
 - **[VLDB Demo 2026 In Submission]** **Lei Ma**, Suhani Chaudhary, Ethan Shanbaum, Athanasios Tassiadamis, Peter M. VanNostrand, Dennis M. Hofmann, Haowen Xu, Elke Rundensteiner.  *Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation.* 
-- **[ICML 2026 Accepted]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.*When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.*
+- **[ICML 2026 Accepted]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.*When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.* [Paper] (https://openreview.net/forum?id=BnduUW8izq&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2026%2FConference%2FAuthors%23your-submissions))
 - **[FaccT 2026]** Peter M. VanNostrand, Dennis M. Hofmann, **Lei Ma**, Elke A. Rundensteiner. *Options Without Agency: Diversity as a Requirement for Fair Actionable Recourse*. [Paper](https://openreview.net/forum?id=zm9BXlH9Re#discussion)
 - **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Tieying Zhang, Peter M. VanNostrand, Dennis M. Hofmann, Lei Cao, Elke A. Rundensteiner, Jianjun Chen. *Krone: Hierarchical and Modular Log Anomaly Detection*. [Paper](https://arxiv.org/pdf/2602.07303) [Code](https://github.com/LeiMa0324/Krone_official) [Demo](https://leima0324.github.io/KRONE_Demo_official/) [Project Webpage](https://leima0324.github.io/krone/)
 - **[Sensys 26]** Haowen Xu, Tianya Zhao, Xuyu Wang, **Lei Ma**, Jun Dai, Alexander Wyglinski, Xiaoyan Sun. *EMPalm: Exfiltrating Palm Biometric Data via Electromagnetic Side-Channel*.
@@ -52,6 +52,7 @@ My research interests include:
 - **[SIGMOD 2021]** Olga Poppe, Chuan Lei, **Lei Ma**, Elke A. Rundensteiner. *To Share, or not to Share Online Event Trend Aggregation OverBursty Event Streams*. [Paper](https://arxiv.org/abs/2101.00361)
 
 ## Service {#service}
+- NeurIPS 2026, Reviewer
 - ICML 2026, Reviewer
 - Infosys, Reviewer
 
