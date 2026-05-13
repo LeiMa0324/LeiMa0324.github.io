@@ -24,6 +24,7 @@ My research interests include:
 
 
 ## News
+- **[Review]** [2026-05-13] I am honored to be recognized as a Gold Reviewer by ICML 2026!
 - **[Paper]** [2026-04-30] Our latest paper about detecting malicious behaviors in multi-agent systems is accepted by ICML 2026!
 - **[Review]** [2026-03-24] I am invited to serve as a reviewer for NeurIPS 26.
 - **[Paper]** [2026-02-23] Our recent work KRONE is accepted by ICDE 26!
@@ -52,9 +53,9 @@ My research interests include:
 - **[SIGMOD 2021]** Olga Poppe, Chuan Lei, **Lei Ma**, Elke A. Rundensteiner. *To Share, or not to Share Online Event Trend Aggregation OverBursty Event Streams*. [Paper](https://arxiv.org/abs/2101.00361)
 
 ## Service {#service}
-- NeurIPS 2026, Reviewer
-- ICML 2026, Reviewer
-- Infosys, Reviewer
+- NeurIPS 2026, Invited Reviewer
+- ICML 2026, Gold Reviewer
+- Infosys, Recurring Reviewer
 
 ## Teaching {#teaching}
 
