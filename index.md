@@ -38,7 +38,7 @@ My research interests include:
 
 
 ## Publications {#publications}
-- **[VLDB Demo 2026 In Submission]** **Lei Ma**, Suhani Chaudhary, Ethan Shanbaum, Athanasios Tassiadamis, Peter M. VanNostrand, Dennis M. Hofmann, Haowen Xu, Elke Rundensteiner.  *Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation.* 
+- **[In Submission]** **Lei Ma**, Suhani Chaudhary, Ethan Shanbaum, Athanasios Tassiadamis, Peter M. VanNostrand, Dennis M. Hofmann, Haowen Xu, Elke Rundensteiner.  *Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation.* 
 - **[ICML 2026]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.*When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.* [Paper](https://openreview.net/forum?id=BnduUW8izq)
 - **[FaccT 2026]** Peter M. VanNostrand, Dennis M. Hofmann, **Lei Ma**, Elke A. Rundensteiner. *Options Without Agency: Diversity as a Requirement for Fair Actionable Recourse*. [Paper](https://openreview.net/forum?id=zm9BXlH9Re#discussion)
 - **[ICDE 2026]** **Lei Ma**, Jinyang Liu, Tieying Zhang, Peter M. VanNostrand, Dennis M. Hofmann, Lei Cao, Elke A. Rundensteiner, Jianjun Chen. *Krone: Hierarchical and Modular Log Anomaly Detection*. [Paper](https://arxiv.org/pdf/2602.07303) [Code](https://github.com/LeiMa0324/Krone_official) [Demo](https://leima0324.github.io/KRONE_Demo_official/) [Project Webpage](https://leima0324.github.io/krone/)
@@ -67,9 +67,9 @@ My research interests include:
 - CS 3733 Software Engineering, Term B 2019, Term C 2020
 
 **Undergraduate Student Project Mentor**
-
-- REU Project, Summer 2025
-- MQP Project (WPI), Fall 2025 - Spring 2026
+- REU Project, Anomaly Detection in Multi-agent systems, Summer 2026
+- REU Project, AI-empowered Log Analysis, Summer 2025
+- MQP Project (WPI x Microsoft), AI-empowered Log Analysis, Fall 2025 - Spring 2026
 
 
 
