@@ -53,11 +53,12 @@ My research interests include:
 - **[SIGMOD 2021]** Olga Poppe, Chuan Lei, **Lei Ma**, Elke A. Rundensteiner. *To Share, or not to Share Online Event Trend Aggregation OverBursty Event Streams*. [Paper](https://arxiv.org/abs/2101.00361)
 
 ## Service {#service}
+- TMLR 2026, Invited Reviewer
 - NeurIPS 2026, Invited Reviewer
 - ICML 2026, Gold Reviewer
 - Infosys, Recurring Reviewer
 
-## Teaching {#teaching}
+## Teaching and Mentoring {#teaching}
 
 **Teaching Assistant**
 
