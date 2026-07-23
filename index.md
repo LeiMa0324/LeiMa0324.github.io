@@ -57,6 +57,7 @@ My research interests include:
 - TMLR 2026, Invited Reviewer
 - NeurIPS 2026, Invited Reviewer
 - ICML 2026, Gold Reviewer
+- VLDB 2026, Student Volunteer
 - Infosys, Recurring Reviewer
 
 ## Teaching and Mentoring {#teaching}
