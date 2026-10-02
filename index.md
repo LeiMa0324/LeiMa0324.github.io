@@ -24,6 +24,7 @@ My research interests include:
 
 
 ## News
+- **[Paper]** [2026-10-01] Exicited to release our latest work MAADBench, a long-lived benchmark in Anomaly Detection for Multi-agent systems!
 - **[Review]** [2026-05-13] I am honored to be recognized as a Gold Reviewer by ICML 2026!
 - **[Paper]** [2026-04-30] Our latest paper about detecting malicious behaviors in multi-agent systems is accepted by ICML 2026!
 - **[Review]** [2026-03-24] I am invited to serve as a reviewer for NeurIPS 26.
@@ -38,7 +39,7 @@ My research interests include:
 
 
 ## Publications {#publications}
-- **[Preprint 26]** **Lei Ma**, Dennis M. Hofmann, Haowen Xu, Joshua DeOliveira, Peter M. VanNostrand, Lei Cao, Elke Rundensteiner. *MAADBench: The Refreshable Paradigm for Anomaly Detection in Multi-Agent Systems.* [Paper](https://arxiv.org/abs/2609.36556)[Code](https://github.com/LeiMa0324/MAADBench)[Dataset](https://huggingface.co/datasets/hww123/MAADBench-full)
+- **[Preprint 26]** **Lei Ma**, Dennis M. Hofmann, Haowen Xu, Joshua DeOliveira, Peter M. VanNostrand, Lei Cao, Elke Rundensteiner. *MAADBench: The Refreshable Paradigm for Anomaly Detection in Multi-Agent Systems.* [Paper](https://arxiv.org/abs/2609.36556) [Code](https://github.com/LeiMa0324/MAADBench) [Dataset](https://huggingface.co/datasets/hww123/MAADBench-full)
 - **[ICDM 2026 Demo]** **Lei Ma**, Suhani Chaudhary, Ethan Shanbaum, Athanasios Tassiadamis, Peter M. VanNostrand, Dennis M. Hofmann, Haowen Xu, Elke Rundensteiner.  *Detect, Localize, and Explain: Interactive Hierarchical Log Anomaly Analytics with LLM Augmentation.* 
 - **[ICML 2026]** Haowen Xu, Xue Tan, **Lei Ma**, Zhihao Zhang, Chao Wang, Qingze Wang, Ping Chen, Jun Dai, Xiaoyan Sun.*When Agents Go Rogue: Activation-Based Detection of Malicious Behaviors in Multi-Agent Systems.* [Paper](https://openreview.net/forum?id=BnduUW8izq)
 - **[FaccT 2026]** Peter M. VanNostrand, Dennis M. Hofmann, **Lei Ma**, Elke A. Rundensteiner. *Options Without Agency: Diversity as a Requirement for Fair Actionable Recourse*. [Paper](https://openreview.net/forum?id=zm9BXlH9Re#discussion)
