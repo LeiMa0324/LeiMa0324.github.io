@@ -24,7 +24,8 @@ My research interests include:
 
 
 ## News
-- **[Paper]** [2026-10-01] Exicited to release our latest work MAADBench, a long-lived benchmark in Anomaly Detection for Multi-agent systems!
+- **[Talk]** [2026-10-01] I am honored to be invited by Prof. John Paparrizos[https://www.paparrizos.org/] to give a talk about Agent Reliability and Anomaly Detection at the Database group @ OSU!
+- **[Paper]** [2026-10-01] Excited to release our latest work MAADBench, a long-lived benchmark in Anomaly Detection for Multi-agent systems!
 - **[Review]** [2026-05-13] I am honored to be recognized as a Gold Reviewer by ICML 2026!
 - **[Paper]** [2026-04-30] Our latest paper about detecting malicious behaviors in multi-agent systems is accepted by ICML 2026!
 - **[Review]** [2026-03-24] I am invited to serve as a reviewer for NeurIPS 26.
