@@ -24,6 +24,7 @@ My research interests include:
 
 
 ## News
+- **[Demo]** [2026-11-13] Our Demo paper on scalable and Efficient LLM-based log analysis is demonstrated at ICDM Demo 2026!
 - **[Talk]** [2026-10-01] I am honored to be invited by **[Prof. John Paparrizos](https://www.paparrizos.org/)** to give a talk about Agent Reliability and Anomaly Detection at the Database group @ OSU!
 - **[Paper]** [2026-10-01] Excited to release our latest work MAADBench, a long-lived benchmark in Anomaly Detection for Multi-agent systems!
 - **[Review]** [2026-05-13] I am honored to be recognized as a Gold Reviewer by ICML 2026!
